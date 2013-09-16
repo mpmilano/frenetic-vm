@@ -1,0 +1,13 @@
+sys-kernel/linux-sabayon ~amd64
+sys-kernel/sabayon-sources ~amd64
+sys-kernel/linux-firmware ~amd64
+sys-kernel/genkernel-next ~amd64
+dev-scheme/racket ~amd64
+dev-lang/ocaml ~amd64
+dev-ml/opam ~amd64
+dev-ml/oasis ~amd64
+dev-ml/ocamlify ~amd64
+dev-ml/ocamlmod ~amd64
+dev-ml/ocaml-data-notation ~amd64
+dev-ml/type-conv ~amd64
+dev-ml/ocaml-data-notation ~amd64

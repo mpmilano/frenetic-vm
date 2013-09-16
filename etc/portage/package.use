@@ -1,0 +1,8 @@
+dev-lang/spidermonkey -debug
+app-doc/doxygen dot
+app-text/docbook-sgml-utils jadetex
+dev-db/mysql -debug
+app-editors/nano -debug
+sys-libs/pam -debug
+media-libs/gd fontconfig
+dev-libs/libxml2 python

@@ -1,0 +1,9 @@
+<=sys-kernel/linux-sabayon-3.10
+<=sys-kernel/sabayon-sources-3.10
+virtual/linux-sources::sabayon-distro
+app-admin/eselect-bzimage::sabayon
+app-admin/eselect-bzimage::sabayon-distro
+sys-kernel/genkernel::sabayon
+sys-kernel/genkernel::sabayon-distro
+sys-kernel/linux-firmware::sabayon
+sys-kernel/genkernel-next::sabayon
