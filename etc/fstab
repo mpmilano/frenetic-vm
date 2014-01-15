@@ -16,5 +16,7 @@
 # NOTE: If your BOOT partition is ReiserFS, add the notail option to opts.
 
 /dev/sda1		/		ext3		noatime		0 1
-course			/home/research/course		vboxsf		rw,uid=1000,gid=1000	0 1
-research		/home/research/research		vboxsf		rw,uid=1000,gid=1000	0 1
+milano.u.cs.cornell.edu:/home/milano/course			/home/research/course		nfs		rw,noatime	0 1
+milano.u.cs.cornell.edu:/home/milano/research		/home/research/research		nfs		rw,noatime	0 1
+milano.u.cs.cornell.edu:/home/milano/old-course			/home/research/old-course		nfs		rw,noatime	0 1
+milano.u.cs.cornell.edu:/tmp/random-space			/var/tmp/portage		nfs		rw,noatime	0 1

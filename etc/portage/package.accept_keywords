@@ -11,3 +11,8 @@ dev-ml/ocamlmod ~amd64
 dev-ml/ocaml-data-notation ~amd64
 dev-ml/type-conv ~amd64
 dev-ml/ocaml-data-notation ~amd64
+app-emacs/proofgeneral ~amd64
+
+dev-python/networkx ~amd64
+dev-python/pygraphviz ~amd64
+dev-python/pyyaml ~amd64

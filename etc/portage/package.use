@@ -6,3 +6,10 @@ app-editors/nano -debug
 sys-libs/pam -debug
 media-libs/gd fontconfig
 dev-libs/libxml2 python
+dev-libs/boost -doc
+dev-python/jinja -doc
+dev-python/numpy lapack
+media-gfx/graphviz cairo
+dev-lang/python sqlite
+dev-ruby/* -doc -debug
+dev-lang/ruby -doc -debug
